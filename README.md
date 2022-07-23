@@ -1,2 +1,0 @@
-# Detc-Inc
-IA
