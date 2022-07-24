@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<!--CUSTOM CSS-->
+<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+<img src="{{ url_for('static', filename='img/IAP.png') }}" class="img-fluid" id="img-logo" alt="Logo">
+<div><a class="btn" id="boton" href="#" role="button">Iniciar</a></div>
+{% endblock %}

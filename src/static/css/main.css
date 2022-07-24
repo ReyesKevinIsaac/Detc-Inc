@@ -1,0 +1,33 @@
+body{
+    background: rgba(207,207,207,255);
+    background-image: url("/src/static/img/circle.png");
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align: center;
+    padding-top: 75px;
+}
+/*boton*/
+.btn {
+    color: #ffffff;
+    font-size: 20px;
+    background: #D65252;
+    padding: 10px 20px 10px 20px;
+    border: solid #D65252 2px;
+    text-decoration: none;
+    max-width: 500px;
+    margin-top: 5%;
+    margin-left: 13%;
+  }
+  
+.btn:hover {
+    background: #b34141;
+    text-decoration: none;
+}
+
+/* imagen logo */
+#img-logo{
+    max-width: 268px;
+    max-height: 379px;
+    margin-left: 8%;
+}
